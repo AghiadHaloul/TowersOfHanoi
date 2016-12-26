@@ -1,0 +1,18 @@
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+C:\Users\Ghido\Google Drive\Seventh Term\04-Mathematical Programming\Tasks\Towers of Hanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+C:\Users\Ghido\Documents\GitHub\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
